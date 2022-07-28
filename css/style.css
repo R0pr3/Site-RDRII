@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+}
+
+
+.cabecalho{
+    position: fixed;
+    margin: 0;
+    width: 100%;
+    border-bottom: 2px;
+    color: rgb(255, 255, 255);
+    top: 0;
+    left: 0;
+    text-align: center;
+    background-color: #481818;
+    font-family: 'Chinese Rocks Rg';
+  
+}
+.cabecalho > ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    padding: 0;
+    gap: 20px;
+    color: #c7a408;
+    
+}
+
+.main-class{
+    background-image: url(RDR2-New-8K.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.container{
+    height: 300px;
+    width: 50%;
+    background-position: center;
+    background-size: cover;
+    background-image: url(download.jfif);
+    padding: 40px;
+    margin-top: 100px;
+    margin-right: 20px;
+    text-align: left;
+    font-size: 24px;
+    font-family: 'Chinese Rocks Rg', sans-serif;
+    display: inline-block;
+    color: white;
+
+    
+}
+
