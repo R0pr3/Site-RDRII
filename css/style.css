@@ -2,7 +2,6 @@ body{
     margin: 0;
 }
 
-
 .cabecalho{
     position: fixed;
     margin: 0;
@@ -25,11 +24,19 @@ body{
     padding: 0;
     gap: 20px;
     color: #c7a408;
-    
+}
+
+.links:hover{
+    color: #fff;
+}
+
+.links{
+    text-decoration: none;
+    color: #c7a408;
 }
 
 .main-class{
-    background-image: url(RDR2-New-8K.jpg);
+    background-image: url(../img/RDR2-New-8K.jpg);
     background-position: center;
     background-size: cover;
     margin: 0px;
@@ -42,7 +49,7 @@ body{
     width: 50%;
     background-position: center;
     background-size: cover;
-    background-image: url(download.jfif);
+    background-image: url(../img/download.jfif);
     padding: 40px;
     margin-top: 100px;
     margin-right: 20px;
