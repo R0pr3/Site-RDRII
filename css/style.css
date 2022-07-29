@@ -1,5 +1,8 @@
 body{
-    margin: 0;
+    margin:10%;
+    background-position: center;
+    background-size: 100%;
+    background-image: url(../img/977202.jpg);
 }
 
 .cabecalho{
@@ -35,29 +38,18 @@ body{
     color: #c7a408;
 }
 
-.main-class{
-    background-image: url(../img/RDR2-New-8K.jpg);
-    background-position: center;
-    background-size: cover;
-    margin: 0px;
-    padding: 0px;
-}
 
 
 .container{
     height: 300px;
     width: 50%;
-    background-position: center;
-    background-size: cover;
-    background-image: url(../img/download.jfif);
+    margin-left: 45vh;
     padding: 40px;
-    margin-top: 100px;
-    margin-right: 20px;
+    margin-top: 20vh;
     text-align: left;
     font-size: 24px;
     font-family: 'Chinese Rocks Rg', sans-serif;
-    display: inline-block;
-    color: white;
+    color: #fff;
 
     
 }

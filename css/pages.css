@@ -1,3 +1,8 @@
+body{
+    background-image: url(../img/806459.webp);
+    background-size: 100%;
+}
+
 .cabecalho{
     position: fixed;
     margin: 0;
@@ -10,4 +15,14 @@
     background-color: #481818;
     font-family: 'Chinese Rocks Rg';
   
+}
+
+.conteiner-armas{
+    margin-left: 50%;
+    background-color: #481818;
+    padding: 40px;
+    color: #c7a408;
+    font-family: 'Chinese Rocks Rg';
+    font-size: 16px;
+
 }
