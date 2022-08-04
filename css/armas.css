@@ -1,7 +1,11 @@
 body{
     background-image: url(../img/806459.webp);
     background-size: 100%;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    
 }
+
 
 .cabecalho{
     position: fixed;
@@ -17,7 +21,18 @@ body{
   
 }
 
+.armas1{
+    margin-top: 50px;
+    margin-left: 50%;
+    background-color: #481818;
+    padding: 40px;
+    color: #c7a408;
+    font-family: 'Chinese Rocks Rg';
+    font-size: 16px;
+    
+}
 .conteiner-armas{
+    margin-top: 10px;
     margin-left: 50%;
     background-color: #481818;
     padding: 40px;
