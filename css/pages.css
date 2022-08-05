@@ -1,18 +1,17 @@
 body{
-    background-image: url(../img/806459.webp);
-    background-size: 100%;
+    background-size: 200%;
     margin-right: 0px;
     margin-bottom: 0px;
+    background-image: url(../img/smoke.jpg);
     
 }
-
 
 .cabecalho{
     position: fixed;
     margin: 0;
     width: 100%;
     border-bottom: 2px;
-    color: rgb(255, 255, 255);
+    color: #c7a408;
     top: 0;
     left: 0;
     text-align: center;
@@ -21,23 +20,88 @@ body{
   
 }
 
+/*1825 x 760*/
+
+
 .armas1{
-    margin-top: 50px;
-    margin-left: 50%;
-    background-color: #481818;
+    background-image: url(../img/jornal-pistola.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
     padding: 40px;
-    color: #c7a408;
-    font-family: 'Chinese Rocks Rg';
-    font-size: 16px;
-    
-}
-.conteiner-armas{
-    margin-top: 10px;
-    margin-left: 50%;
-    background-color: #481818;
-    padding: 40px;
-    color: #c7a408;
-    font-family: 'Chinese Rocks Rg';
-    font-size: 16px;
+    margin-left: 20px;
+    width: 820px;
+    height: 342px;
 
 }
+
+.armas2{
+    background-image: url(../img/jornal-rifle.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 40px;
+    margin-left: 20px;
+    width: 820px;
+    height: 342px;
+
+}
+
+.armas3{
+    background-image: url(../img/jornal-revolver.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 40px;
+    margin-left: 20px;
+    width: 820px;
+    height: 342px;
+
+}
+
+.armas4{
+    background-image: url(../img/jornal-sawnoff.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 40px;
+    margin-left: 20px;
+    width: 820px;
+    height: 342px;
+
+}
+
+.card-rifle{
+    background-image: url(../img/card-rifle.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 510px;
+    height: 400px;
+    margin-left: 880px;
+}
+
+.card-pistola{
+    background-image: url(../img/card-pistola.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 510px;
+    height: 400px;
+    margin-left: 880px;
+}
+.card-revolver{
+    background-image: url(../img/card-revolver.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 510px;
+    height: 400px;
+    margin-left: 880px;
+}
+.card-sawnoff{
+    background-image: url(../img/card-sawnoff.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 510px;
+    height: 400px;
+    margin-left: 880px;
+}
+
